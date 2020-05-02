@@ -8,3 +8,4 @@ Docker is a set of platform as a service products that uses OS-level virtualizat
 DevOps is a set of practices that combines software development and information-technology operations which aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 In this webpage i given the information about COVID 19 if any one read this page they can see the updated and latest innformation about the virus how dangerious the virus is and how to can take care about us and our environment STAY AT HOME KEEP SAFE YOURSLEF AND OTHER ALSO.
 And finally i porvided a page for my mentor who is it and how he work for us to make india ready for future ready.
+Address:- http://192.168.43.10:8080/
